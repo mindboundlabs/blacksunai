@@ -1,4 +1,4 @@
-# Black Sun AI Initiative
+# Black Sun AI
 
 **By MindBound Labs**
 
