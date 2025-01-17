@@ -6,7 +6,7 @@
 
 Black Sun AI is an initiative by **MindBound Labs**, a forward-thinking research lab and collective of companies dedicated to accelerating the development of **safe Artificial Superintelligence (ASI)**. Our mission is to harness the collective power of communities to align AI development with ethical principles, fostering creative, meaningful, and contextually rich content. 
 
-This initiative provides **Master Prompts** designed to help individuals generate impactful AI-driven content, such as:
+This initiative provides **Master Prompts** designed to help individuals generate prompts for creating impactful AI-driven content, such as:
 
 - **AI Art**
 - **AI Stories**
