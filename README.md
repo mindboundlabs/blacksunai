@@ -56,7 +56,7 @@ Black Sun AI seeks to ignite the **biggest intelligence explosion** by leveragin
 
 ## The Story Behind The Name
 
-The name "Black Sun AI" is inspired by the concept of the Black Sun, symbolizing hidden wisdom, transformative enlightenment, and the emergence of profound insight from obscurity. This mirrors our mission to make advancing safe ASI accessible and actionable for everyone. By leveraging the power of AI, we aim to reveal patterns, insights, and creative pathways that were previously unattainable, fostering an era of ethical and safe Artificial Superintelligence (ASI).
+The name "Black Sun AI" is inspired by the concept of the Black Sun, symbolizing hidden wisdom, transformative enlightenment, and the emergence of profound insight from obscurity. This mirrors our mission to make advancing safe ASI accessible and actionable for everyone. By leveraging the power of social media, we aim to democratize AI alignment, fostering an era of ethical and safe Artificial Superintelligence (ASI).
 
 At Black Sun AI, the Black Sun represents the potential of AI to illuminate the unknown—delving into the unconscious depths of data and ideas to provide clarity and inspiration. We enable communities to create and share aligned, meaningful, and ethical content using masterfully designed prompts. This democratizes the benefits of AI, empowering individuals from all walks of life to participate in shaping the future of AI responsibly.
 
